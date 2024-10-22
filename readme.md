@@ -7,6 +7,7 @@ Années concernées :
 * 2024
 
 A savoir : 
+* Vos yeux pourraient piquer (et oui j'ai pas vérifié le bon français dans les notes, vous êtes prévenu !)
 * Les notes ont été majoritairement prise sur le tas et affiné par la suite 
 * Il se peux que des challenges ne soient pas assez ou pas expliqués du tout
 * Il se peux que des challenges soient renseigné (uniquement l'énoncé) sans résolution (oui je ne peux pas encore tout résoudre pour le moment)

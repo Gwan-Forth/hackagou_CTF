@@ -1,5 +1,5 @@
 
-![il_cherche_sa_famille](../../../../attachements/il_cherche_sa_famille.png)
+![il_cherche_sa_famille](il_cherche_sa_famille.png)
 
 ## Résolution
 
