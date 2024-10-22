@@ -9,7 +9,7 @@
 > En entrant dans la grotte, vous découvrez un ancien artefact, un vieux totem, qui semble réagir à vos paroles. Cet artefact, connu sous le nom de "Totem de l'Exécution", est la clé de votre première épreuve. Il exécute tout ce qui lui est dit, sans poser de question. Mais attention, il est capricieux et n'aime pas les erreurs.
 
 
-![paroles](../../../../attachements/paroles)
+![paroles](paroles)
 
 ![paroles](paroles.c)
 ## Résolution

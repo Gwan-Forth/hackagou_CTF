@@ -8,7 +8,7 @@
 >
 >Devant vous se trouve un ancien dispositif de sécurité magique, une épreuve qui teste votre capacité à manipuler des forces invisibles, représentées ici par des variables mystiques. Pour réussir, vous devrez échanger les rôles de ces forces et prouver que vous êtes digne de poursuivre votre quête.
 
-![actes](../../../../attachements/actes)
+![actes](actes)
 ## Résolution
 
 

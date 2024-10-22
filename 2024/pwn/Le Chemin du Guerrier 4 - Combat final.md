@@ -13,7 +13,7 @@
 >Jeune guerrier, ce combat est le plus difficile que vous aurez à affronter, mais c'est aussi le dernier obstacle entre vous et la gloire. Faites preuve de courage, de ruse, et de précision. Que la force des anciens guerriers de Naori soit avec vous dans ce Combat Final.
 
 
-![combats](../../../../attachements/combats)
+![combats](combats)
 ## Résolution
 
 
