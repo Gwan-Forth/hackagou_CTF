@@ -1,7 +1,7 @@
 
 ![bibliotheque_1](bibliotheque_1.png)
 
-![bash_history](../../../../attachements/bash_history)
+![bash_history](bash_history)
 ## Résolution
 
 on récupère l’info utile : 
