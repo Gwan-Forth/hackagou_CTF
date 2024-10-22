@@ -9,7 +9,7 @@
 >Pour entrer dans le sanctuaire du guerrier et poursuivre votre quête, vous devez d'abord exécuter correctement une série de gestes rituels. Mais ces gestes ne sont pas simplement des mouvements physiques : ils symbolisent votre capacité à vous connecter aux Totems que vous rencontrerez plus tard.
 
 ![gestes](../../../../attachements/gestes)
-![gestes 1](../../../../attachements/gestes%201.c)
+![gestes 1](gestes%201.c)
 ## Résolution
 
 ```c

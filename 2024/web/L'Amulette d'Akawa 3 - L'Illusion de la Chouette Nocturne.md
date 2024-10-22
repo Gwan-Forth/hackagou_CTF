@@ -1,4 +1,4 @@
-![amulette_akawa_3](../../../../attachements/amulette_akawa_3.png)
+![amulette_akawa_3](amulette_akawa_3.png)
 
 ## Enoncé
 

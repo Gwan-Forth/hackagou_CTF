@@ -6,7 +6,7 @@ _Format du flag : OPENNC{NomDeLaRue}_
 
 _Exemple : OPENNC{AvenueGeorgesClémenceau}_
 
-![Goalcausse](../../../../attachements/Goalcausse.png)
+![Goalcausse](Goalcausse.png)
 
 ## Résolution
 Ici il va y avoir beaucoup de déduction et un peu de recherche manuelle.
@@ -27,12 +27,12 @@ Du coup on va à cet endroit avec google map : https://www.google.com/maps/place
 
 A partir de là on part sur de la déduction:
 
-![Pasted image 20240916200041](../../../../attachements/Pasted%20image%2020240916200041.png)
+![Pasted image 20240916200041](Pasted%20image%2020240916200041.png)
 
 La rue que l’on cherche ne peux pas être du côté de la mer car pas assez de recul pour l’angle de vue de la tour. Le nord et le sud ne laisse pas paraître d’impasse. Par contre à l’Ouest il y a des zones intéressantes, il ne reste plus qu’à trouver une impasse qui correspond à ce que l’on cherche.
 
 Et on fini par trouver ici : 
-![Pasted image 20240916200348](../../../../attachements/Pasted%20image%2020240916200348.png)
+![Pasted image 20240916200348](Pasted%20image%2020240916200348.png)
 
 >[!question]- Spoiler du flag
 > OPENNC{SunriseBlvd}

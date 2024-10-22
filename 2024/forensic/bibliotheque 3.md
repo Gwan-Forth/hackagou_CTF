@@ -1,7 +1,7 @@
 
-![bibliotheque_3](../../../../attachements/bibliotheque_3.png)
+![bibliotheque_3](bibliotheque_3.png)
 
-![chall](../../../../attachements/bibliotheque_chall.pcapng)
+![chall](bibliotheque_chall.pcapng)
 ## Résolution
 
 On trouve notre attaque à la frame 309 : 

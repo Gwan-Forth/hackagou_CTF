@@ -1,4 +1,4 @@
-![amulette_akawa_4](../../../../attachements/amulette_akawa_4.png)
+![amulette_akawa_4](amulette_akawa_4.png)
 
 ## Enoncé
 
@@ -27,7 +27,7 @@ Le secret est vraiment simple : `123456789`
 
 Avec ce secret il ne nous reste plus qu’à générer un jwt correcte , on va utiliser le site https://jwt.io/ qui est parfait pour ça, on envoi le jwt de base, on modifie la valeur pour admin et on signe le jwt :
 
-![amulette_akawa_4_jwt](../../../../attachements/amulette_akawa_4_jwt.png)
+![amulette_akawa_4_jwt](amulette_akawa_4_jwt.png)
 
 On se retrouve donc avec `eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhZG1pbiI6MSwiZXhwIjoxNzI4MzYyMzkzfQ.21s53Rc8GL9dQejw0kc3qV1TZwSd4iC9-yBYMcaVhN0`
 

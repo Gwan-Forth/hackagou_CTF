@@ -1,7 +1,7 @@
 Il semblerait que deux perroquets, Dé et Ness, aient communiqué de manière à ne pas se faire repérer depuis la planque du pirate qui s'amuse à cacher des trésors. ![deetness-400x400.png](https://ctf2023.hackagou.nc/files/30a843913e22f16313f5da7550f55454/deetness-400x400.png) 
 Saurez-vous déchiffrer le contenu de leur conversation ?
 
-![deetness](../../../../attachements/deetness.pcapng)
+![deetness](deetness.pcapng)
 
 ## Résolution
 

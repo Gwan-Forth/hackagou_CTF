@@ -12,7 +12,7 @@
 > 
 > Image du challenge réalisée par : @Toudou_ben
 
-![](attachements/chall.jpg)
+![](chall.jpg)
 
 ## Résolution
 

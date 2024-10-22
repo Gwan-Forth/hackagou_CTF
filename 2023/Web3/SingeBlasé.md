@@ -3,7 +3,7 @@ Connor Sturdy, un corsaire bien connu pour son obsession du Capt'N Nepo, aurait 
 
 Saurez-vous retrouver le gain total de cette opération pour Connor à partir de la photo prise du tableau ?
 
-![quel_gain](../../../../attachements/quel_gain.png)
+![quel_gain](quel_gain.png)
 
 _Format du flag : OPENNC{md5_du_gain}_
 

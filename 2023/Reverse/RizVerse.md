@@ -7,7 +7,7 @@ Le message est le suivant :
 > 160 172 104 107 106 70 104 20 70 126 81 20 85 106 106 81 20 126 81 106 70 106 104 85 106 169 106 117 162 122 113 113 120 119 118
 
 La recette du gérant est jointe.
-![rizverse](../../../../attachements/rizverse.py)
+![rizverse](rizverse.py)
 
 ```python
 def fun1(mot):

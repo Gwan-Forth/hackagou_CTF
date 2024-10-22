@@ -1,5 +1,5 @@
 
-![easter_egg](../../../../attachements/easter_egg.png)
+![easter_egg](easter_egg.png)
 
 ## Résolution
 

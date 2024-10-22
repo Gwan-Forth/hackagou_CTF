@@ -1,5 +1,5 @@
 
-![bibliotheque_4](../../../../attachements/bibliotheque_4.png)
+![bibliotheque_4](bibliotheque_4.png)
 
 ## Résolution
 

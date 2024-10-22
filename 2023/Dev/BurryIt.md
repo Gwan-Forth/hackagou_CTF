@@ -4,7 +4,7 @@ Le second du capitaine aurait, suite à une consommation excessive de breuvages
 ![buryit-400x400.png](https://ctf2023.hackagou.nc/files/03b230e9c92dd0ff0434b47835f27c4e/buryit-400x400.png) 
 Armez-vous d'une pelle pour le retrouver.
 
-![buryit](../../../../attachements/buryit)
+![buryit](../../../../attachements/buryit)]
 
 ## Résolution
 

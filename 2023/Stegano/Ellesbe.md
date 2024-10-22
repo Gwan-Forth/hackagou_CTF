@@ -1,7 +1,7 @@
 
 Il semblerait que le vieux briscard des mers qui s'amuse à cacher ses trésors à droite, à gauche, aurait laissé un indice dans son portrait. Saurez-vous le trouver ?
 
-![ellesbe](../../../../attachements/ellesbe.png)]
+![ellesbe](ellesbe.png)]
 
 
 ## Résolution

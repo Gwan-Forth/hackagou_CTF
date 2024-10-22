@@ -11,7 +11,7 @@
 
 ![paroles](../../../../attachements/paroles)
 
-![paroles](../../../../attachements/paroles.c)
+![paroles](paroles.c)
 ## Résolution
 
 Ici on regarde le code : 

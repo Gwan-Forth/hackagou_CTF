@@ -66,7 +66,7 @@ reconstituer_image(image_folder, output_image)
 ```
 
 A adapter bien sûr pour que le script puisse accéder aux images. Ce qui nous donne en résultat : 
-![puzzle_final_image](../../../../attachements/puzzle_final_image.png)
+![puzzle_final_image](puzzle_final_image.png)
 
 On le lit en ligne pour se simplifier la vie avec un site comme https://scanqr.org/
 Et on obtient : `https://youtu.be/FKynmIW5LIA`

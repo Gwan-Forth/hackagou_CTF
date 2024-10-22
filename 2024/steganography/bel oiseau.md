@@ -1,6 +1,6 @@
-![bel_oiseau](../../../../attachements/bel_oiseau.png)
+![bel_oiseau](bel_oiseau.png)
 
-![fichier_bel_oiseau](../../../../attachements/fichier_bel_oiseau.txt)
+![fichier_bel_oiseau](fichier_bel_oiseau.txt)
 ## Résolution
 
 Le fichier texte contient une image encore faut-il pouvoir le lire.

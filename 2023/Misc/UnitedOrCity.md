@@ -5,7 +5,7 @@ Bonne chance dans cette chasse au trésor, que le vent soit en votre faveur.
 _Le format du flag est un MD5 du message découvert : OPENNC{md5dumessagedécouvert}_
 
 
-![signal](../../../../attachements/signal.png)
+![signal](signal.png)
 
 
 ## Résolution

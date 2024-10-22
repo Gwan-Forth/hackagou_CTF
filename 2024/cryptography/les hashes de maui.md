@@ -1,7 +1,7 @@
 
-![hashes_maui](../../../../attachements/hashes_maui.png)
+![hashes_maui](hashes_maui.png)
 
-![hash](../../../../attachements/hash.txt)
+![hash](hash.txt)
 ## Résolution
 
 il faut casser chaque hash avec la méthode qui va bien qui est donné dans le fichier.

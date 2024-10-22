@@ -1,5 +1,5 @@
 
-![bibliotheque_1](../../../../attachements/bibliotheque_1.png)
+![bibliotheque_1](bibliotheque_1.png)
 
 ![bash_history](../../../../attachements/bash_history)
 ## Résolution
