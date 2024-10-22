@@ -1,11 +1,9 @@
 
-Le second du capitaine aurait, suite à une consommation excessive de breuvages en tout genre, glissé à l'une de ses conquêtes qu'un trésor serait enterré sur une plage de la côte Est.
+> Le second du capitaine aurait, suite à une consommation excessive de breuvages en tout genre, glissé à l'une de ses conquêtes qu'un trésor serait enterré sur une plage de la côte Est.
+> 
+> Armez-vous d'une pelle pour le retrouver.
 
-![buryit-400x400.png](https://ctf2023.hackagou.nc/files/03b230e9c92dd0ff0434b47835f27c4e/buryit-400x400.png) 
-Armez-vous d'une pelle pour le retrouver.
-
-![buryit](buryit)]
-
+![buryit](buryit)
 ## Résolution
 
 Il faut étudier le fichier pour savoir de quoi il s’agit : 
