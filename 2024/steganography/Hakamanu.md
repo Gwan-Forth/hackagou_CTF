@@ -9,7 +9,7 @@
 > 
 > Auteur : Kerhuon
 
-![logs](../../../../attachements/logs.txt)
+![logs](logs.txt)
 ## Résolution
 
 On analyse le fichier de logs et on trouve qu’il y a des requêtes intéressantes du genre : 

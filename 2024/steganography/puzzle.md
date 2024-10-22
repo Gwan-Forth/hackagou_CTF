@@ -7,7 +7,7 @@
 > Auteur : Ketsui
 
 
-![challenge](../../../../attachements/challenge.zip)
+![challenge](challenge.zip)
 ## Résolution
 
 Le zip contient tout une série d’image nommé `n_X_Y.png`.
